@@ -3,7 +3,7 @@
 export default function Home() {
   return (
     <div>
-      <h1>Anne Ahola Ward</h1>
+      <h1 className="text-xl text-emerald-500">Anne Ahola Ward</h1>
     </div>
   )
 }
